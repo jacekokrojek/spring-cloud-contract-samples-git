@@ -1,4 +1,4 @@
-package contracts.beer.rest
+package com.example
 
 org.springframework.cloud.contract.spec.Contract.make {
 	request {
